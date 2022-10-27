@@ -84,7 +84,7 @@ const Sidebar = (props) => {
                         }}
                     >
                         <a
-                            href=""
+                            href="https://github.com/duy-doanphan/pet-shop-FU"
                             target="_blank"
                             className="sidebar-btn"
                             rel="noopener noreferrer"
